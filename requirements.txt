@@ -1,0 +1,13 @@
+groq
+python-dotenv
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-docx
+openpyxl
+requests
+beautifulsoup4
+matplotlib
+plotly
